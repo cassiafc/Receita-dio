@@ -1,6 +1,8 @@
-#Cookies de Chocolate:
+# Cookies de Chocolate:  
 
-###Ingredientes
+![Logo do R](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzhcHP0y2tbUSkirddtNoIQkY5V4DRpRo49A&usqp=CAU)
+
+### Ingredientes
 -  2 ovos
 - 3 colheres de sopa de óleo de coco
 - 1 colher de chá de extrato de baunilha
@@ -11,7 +13,7 @@
 - 1 colher de café de fermento em pó
 - Gotas de chocolate 70% , diet ou meio amargo
 
-###Modo de Preparo
+### Modo de Preparo
 1. Bata os ovos com o oleo de coco, a baunilha e o açúcar na batedeira até ficar homogêneo
 2. Adicione o cacau e as farinhas e ligue a batedeira apenas para misturar
 3. Finalze com o fermento e amasse com as mãos
